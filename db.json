@@ -6,6 +6,39 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "devRafael@mail.com",
+      "password": "$2a$10$v1.Slx3QC0FzNM5SnUe5X.ZX0Qf0xl5jiYAmCE05xF8JaqR.ypy36",
+      "name": "Kenzinho",
+      "age": 31,
+      "id": 2
+    }
+  ],
+  "animals": [
+    {
+      "name": "meu",
+      "type": "gato",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Nina",
+      "type": "gato",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Nona",
+      "type": "cachorro",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "Pluto",
+      "type": "cachorro",
+      "userId": 2,
+      "id": 4
     }
   ]
 }
